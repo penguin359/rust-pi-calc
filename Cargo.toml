@@ -1,0 +1,9 @@
+[package]
+name = "pi"
+version = "0.1.0"
+authors = ["Loren M. Lang <lorenl@north-winds.org>"]
+edition = "2018"
+
+[dependencies]
+num-bigint = "0.2.2"
+bigdecimal = "0.0.15"
